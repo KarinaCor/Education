@@ -1,7 +1,7 @@
 
 
 
-export const Pages = () => {
+ const Pages = () => {
     return (
         <>
            <h1>Pages</h1>
@@ -10,3 +10,5 @@ export const Pages = () => {
 
     )
 }
+
+export default Pages;

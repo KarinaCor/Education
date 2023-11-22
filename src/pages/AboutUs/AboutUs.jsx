@@ -1,7 +1,7 @@
 
 
 
-export const AboutUs = () => {
+ const AboutUs = () => {
     return (
         <>
            <h1>AboutUs</h1>
@@ -10,3 +10,5 @@ export const AboutUs = () => {
 
     )
 }
+
+export default AboutUs;

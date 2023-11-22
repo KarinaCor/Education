@@ -1,6 +1,6 @@
 
 
-export const MainPage = () => {
+ const MainPage = () => {
     return (
         <>
            <h1>Main-page</h1>
@@ -9,3 +9,5 @@ export const MainPage = () => {
 
     )
 }
+
+export default MainPage;
